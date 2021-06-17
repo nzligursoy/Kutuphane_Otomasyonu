@@ -1,4 +1,4 @@
-# Kutuphane_Otamasyonu
+# Kutuphane_Otomasyonu
 Veritabanı Projesi
 
 ## Uygulama Bağlantısı
